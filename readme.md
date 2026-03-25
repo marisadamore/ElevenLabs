@@ -6,7 +6,7 @@ Demonstrate how AI voice synthesis can convert written communications content in
 ---
 
 ## Audio Output (MP3)  
-[Professional Voice Clone Podcast Sample] 
+[Professional Voice Clone Podcast Sample](./ElevenLabs%20PVC%20Sample.mp3) 
 
 ---
 
