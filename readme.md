@@ -1,11 +1,49 @@
-## Podcast Script ##
+# ElevenLabs AI Voice Project: AI in Public Relations
 
-Hi everyone, and welcome to this short podcast. Today I’m talking briefly about how artificial intelligence is changing the public relations industry—and what PR professionals need to do to adapt.
-AI is already transforming how communications teams work. Many of the routine tasks that used to take hours—like media monitoring, research, and drafting initial content—can now be done in minutes with AI tools. Platforms can scan thousands of articles and social posts to track brand mentions, analyze sentiment, and even identify emerging trends or potential reputation risks.
-Generative AI is also changing content creation. PR teams can use AI to produce first drafts of press releases, social posts, internal communications, or campaign ideas. This doesn’t replace human writers, but it speeds up the process and gives communicators more time to focus on strategy and storytelling.
-Another big shift is personalization. AI can analyze journalists’ past coverage and recommend tailored pitch angles, helping PR professionals send more relevant and targeted media outreach rather than broad, generic press blasts.
-But even as AI becomes more powerful, the human side of PR is more important than ever. Building relationships with journalists, making ethical decisions during crises, understanding cultural context, and crafting meaningful narratives are things AI simply can’t replace.
-So what should PR professionals be doing right now? First, learning how to use AI tools effectively—what many people call AI literacy. Second, developing stronger analytical and strategic thinking skills. And third, focusing on the human strengths of the profession: trust, creativity, and relationship-building.
-In short, AI isn’t replacing PR professionals. It’s changing the way they work. Those who learn to combine AI tools with strong communication and strategic skills will be best positioned for the future of the industry.
-Thanks for listening to the podcast today and be sure to tune in next time!
+## Objective  
+Demonstrate how AI voice synthesis can convert written communications content into a professional audio format for use in podcasts, training, or internal communications.
 
+---
+
+## Audio Output (MP3)  
+[Professional Voice Clone Podcast Sample] 
+
+---
+
+## Tools Used  
+- ElevenLabs (Professional Voice Clone - PVC)  
+- AI-assisted script writing  
+- MP3 audio export  
+
+---
+
+## Workflow  
+1. Created a structured script on AI in public relations  
+2. Refined script for clarity and professional tone  
+3. Generated voice output using ElevenLabs PVC  
+4. Adjusted voice settings for natural delivery  
+5. Exported final audio as MP3  
+
+---
+
+## Skills Demonstrated  
+- AI voice synthesis  
+- Script writing and editing  
+- AI-assisted content production  
+- Communication strategy  
+
+---
+
+## Script  
+
+Hello, and welcome. Today I will discuss the application of artificial intelligence in public relations and the specific technical skills employers expect from incoming professionals.
+
+AI automates routine communications work. Software scans high volumes of articles to track brand mentions or analyze public sentiment. Generative models manage the initial stages of content creation. A practitioner can generate a first draft of a press release or a campaign outline in seconds. This automation shifts the PR professional’s daily focus away from basic data gathering and toward strategic planning.
+
+The technology also changes media relations. Large language models can review a journalist’s entire publication history to suggest a highly targeted pitch angle. This eliminates the reliance on generic mass email blasts.
+
+The rapid adoption of these tools creates a distinct demand for professionals who possess both AI literacy and traditional communication skills. Algorithms handle data processing and pattern recognition. Humans handle ethical judgment during a corporate crisis and interpret cultural context for a new campaign. Building direct trust with reporters also remains a strictly human domain.
+
+Here, I have focused on applying machine learning tools to optimize these exact workflows while maintaining strong editorial standards.
+
+Thank you for listening. Join me next time.
